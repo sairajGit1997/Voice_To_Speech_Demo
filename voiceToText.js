@@ -51,8 +51,6 @@ function sendAudioToBackend(audioBlob) {
         });
 }
 
-
-
 // recordButton.addEventListener('click', function(){
 //     var speech = true;
 //     window.SpeechRecognition = window.webkitSpeechRecognition;
